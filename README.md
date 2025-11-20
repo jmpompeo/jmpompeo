@@ -1,16 +1,62 @@
-## Hi there 👋
+# 🧑‍💻 Joey Pompeo  
+### C#/.NET Engineer • Azure Automation • DevOps • Cloud Architecture
 
-<!--
-**jmpompeo/jmpompeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m Joey — a software engineer focused on building **Azure-backed automation**, durable distributed systems, and clean, testable .NET code. I love designing friction-free developer tooling, exploring frontend frameworks like Next.js and Angular, and sharing learning projects on GitHub.
 
-Here are some ideas to get you started:
+I’m currently leveling up in **domain-driven design**, **test-driven development**, and **iOS development**, while also building tools that make everyday life easier (fantasy football analysis, pregnancy trackers, personal automation, etc.).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+**Languages**  
+C#, TypeScript, SQL, PowerShell  
+
+**Frameworks & Tools**  
+.NET • Azure Durable Functions • Entity Framework • xUnit • Moq • .NET Aspire  
+
+**Cloud & DevOps**  
+Azure Functions • Azure Storage • Azure DevOps • GitHub Actions • Bicep • ArgoCD • IaC  
+
+---
+
+## 🚀 Featured Projects
+
+### 🟣 Compound Interest Calculator (C#)  
+Simple but expandable calculator demonstrating clean architecture patterns.  
+🔗 https://github.com/jmpompeo/CompoundInterestCalculator
+
+### 🟢 JoeyPCodes — Developer Portfolio (Astro)  
+A personal developer site combining Markdown, Spec-Kit/Constitution-driven content, Tailwind, and GitHub workflows.  
+🔗 https://github.com/jmpompeo/joeypcodes
+
+### 👶 Pregnancy Tracker
+A simple SPA that runs locally that can track pregnancy related things such as: mood, supplements taken, upcoming doctors appointments, and more coming soon
+#### Improvements
+- More robust data store
+  -  Dedicated backend
+- Login/logout functionality
+
+---
+
+## 🎯 What I’m Focused on Right Now
+
+- Improving TDD practices with xUnit + Moq  
+- Learning iOS development and Swift
+- Exploring front end frameworks and learning TypeScript
+
+---
+
+## 💬 Let’s Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/joseph-pompeo  
+- **GitHub:** https://github.com/jmpompeo  
+- **Website:** Coming soon (joeypcodes.com)
+
+---
+
+## 📈 GitHub Stats (Optional)
+
+```md
+![Joey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmpompeo&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmpompeo&layout=compact&theme=transparent)
