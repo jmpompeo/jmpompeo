@@ -1,7 +1,7 @@
 # 🧑‍💻 Joey Pompeo  
 ### C#/.NET Engineer • Azure Automation • DevOps • Cloud Architecture
 
-Hi! I’m Joey — a software engineer focused on building **Azure-backed automation**, durable distributed systems, and clean, testable .NET code. I love designing friction-free developer tooling, exploring frontend frameworks, and sharing learning projects on GitHub.
+Hi! I’m Joey. I'm a software engineer focused on building **Azure-backed automation**, durable distributed systems, and clean, testable .NET code. I love designing friction-free developer tooling, exploring frontend frameworks, and sharing learning projects on GitHub.
 
 I’m currently leveling up in **domain-driven design**, **test-driven development**, and **iOS development**, while also building tools that make my life easier (pregnancy trackers, personal automation, etc.).
 
@@ -31,7 +31,7 @@ A personal developer site combining Markdown, Spec-Kit/Constitution-driven conte
 
 ### 👶 Pregnancy Tracker
 A simple SPA that runs locally that can track pregnancy related things such as: mood, supplements taken, upcoming doctors appointments, and more coming soon
-#### Improvements
+####  Potential Improvements
 - More robust data store
   -  Dedicated backend
 - Login/logout functionality
