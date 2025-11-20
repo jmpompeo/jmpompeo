@@ -9,14 +9,13 @@ I’m currently leveling up in **domain-driven design**, **test-driven developme
 
 ## 🛠️ Technical Skills
 
-**Languages**  
-C#, TypeScript, SQL, PowerShell  
-
-**Frameworks & Tools**  
-.NET • Azure Durable Functions • Entity Framework • xUnit • Moq • .NET Aspire  
-
-**Cloud & DevOps**  
-Azure Functions • Azure Storage • Azure DevOps • GitHub Actions • Bicep • ArgoCD • IaC  
+| Category | Technologies |
+|---------|--------------|
+| **Languages** | C#, TypeScript, SQL, PowerShell |
+| **Frameworks & Tools** | .NET, Azure Durable Functions, Entity Framework, xUnit, Moq, .NET Aspire |
+| **Cloud & DevOps** | Azure Functions, Azure Storage, Azure DevOps, GitHub Actions, Bicep, ArgoCD, IaC |
+| **Version Control & CI** | Git, GitHub, Azure DevOps Repos, GitHub Actions |
+| **Other** | REST API design, Automated testing, Clean architecture |
 
 ---
 
