@@ -1,9 +1,9 @@
 # 🧑‍💻 Joey Pompeo  
 ### C#/.NET Engineer • Azure Automation • DevOps • Cloud Architecture
 
-Hi! I’m Joey — a software engineer focused on building **Azure-backed automation**, durable distributed systems, and clean, testable .NET code. I love designing friction-free developer tooling, exploring frontend frameworks like Next.js and Angular, and sharing learning projects on GitHub.
+Hi! I’m Joey — a software engineer focused on building **Azure-backed automation**, durable distributed systems, and clean, testable .NET code. I love designing friction-free developer tooling, exploring frontend frameworks, and sharing learning projects on GitHub.
 
-I’m currently leveling up in **domain-driven design**, **test-driven development**, and **iOS development**, while also building tools that make everyday life easier (fantasy football analysis, pregnancy trackers, personal automation, etc.).
+I’m currently leveling up in **domain-driven design**, **test-driven development**, and **iOS development**, while also building tools that make my life easier (pregnancy trackers, personal automation, etc.).
 
 ---
 
