@@ -29,7 +29,7 @@ Simple but expandable calculator demonstrating clean architecture patterns.
 A personal developer site combining Markdown, Spec-Kit/Constitution-driven content, Tailwind, and GitHub workflows.  
 🔗 https://github.com/jmpompeo/joeypcodes
 
-### 👶 Pregnancy Tracker
+### 👶 Pregnancy Tracker (TypeScript)
 A simple SPA that runs locally that can track pregnancy related things such as: mood, supplements taken, upcoming doctors appointments, and more coming soon
 ####  Potential Improvements
 - More robust data store
