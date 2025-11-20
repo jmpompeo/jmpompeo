@@ -31,11 +31,11 @@ A personal developer site combining Markdown, Spec-Kit/Constitution-driven conte
 
 ### 👶 Pregnancy Tracker (TypeScript)
 A simple SPA that runs locally that can track pregnancy related things such as: mood, supplements taken, upcoming doctors appointments, and more coming soon
+🔗 https://github.com/jmpompeo/pregnancy-tracker
 ####  Potential Improvements
 - More robust data store
   -  Dedicated backend
 - Login/logout functionality
-🔗 https://github.com/jmpompeo/pregnancy-tracker
 
 ---
 
