@@ -35,6 +35,7 @@ A simple SPA that runs locally that can track pregnancy related things such as: 
 - More robust data store
   -  Dedicated backend
 - Login/logout functionality
+🔗 https://github.com/jmpompeo/pregnancy-tracker
 
 ---
 
