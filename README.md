@@ -3,7 +3,7 @@
 
 Hi! I’m Joey. I'm a software engineer focused on building **Azure-backed automation**, durable distributed systems, and clean, testable .NET code. I love designing friction-free developer tooling, exploring frontend frameworks, and sharing learning projects on GitHub.
 
-I’m currently leveling up in **domain-driven design**, **test-driven development**, and **iOS development**, while also building tools that make my life easier (pregnancy trackers, personal automation, etc.).
+I’m currently leveling up in **system design** and **test-driven development**, while also building tools that make my life easier (pregnancy trackers, personal automation, etc.).
 
 ---
 
