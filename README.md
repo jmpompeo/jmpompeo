@@ -12,7 +12,7 @@ I’m currently leveling up in **system design** and **test-driven development**
 | Category | Technologies |
 |---------|--------------|
 | **Languages** | C#, TypeScript, SQL, PowerShell |
-| **Frameworks & Tools** | .NET, Azure Durable Functions, Entity Framework, xUnit, Moq, .NET Aspire |
+| **Frameworks & Tools** | .NET, Azure Durable Functions, Entity Framework, xUnit, Moq, Aspire |
 | **Cloud & DevOps** | Azure Functions, Azure Storage, Azure DevOps, GitHub Actions, Bicep, ArgoCD, IaC, Azure Pipelines |
 | **Version Control & CI** | Git, GitHub, Azure DevOps Repos, GitHub Actions |
 | **Other** | REST API design, Automated testing, Clean architecture |
@@ -38,8 +38,8 @@ A simple SPA that runs locally that can track pregnancy related things such as: 
 ## 🎯 What I’m Focused on Right Now
 
 - Improving TDD practices with xUnit + Moq  
-- Learning iOS development and Swift
-- Exploring front end frameworks and learning TypeScript
+- Leveraging AI Agents to improve my productivity
+- Learning how to architect solutions
 
 ---
 
