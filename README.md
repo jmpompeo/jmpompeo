@@ -25,13 +25,14 @@ I’m currently leveling up in **system design** and **test-driven development**
 Simple but expandable calculator demonstrating clean architecture patterns.  
 🔗 https://github.com/jmpompeo/CompoundInterestCalculator
 
-### 🟢 JoeyPCodes — Developer Portfolio (Astro)  
-A personal developer site combining Markdown, Spec-Kit/Constitution-driven content, Tailwind, and GitHub workflows.  
-🔗 https://github.com/jmpompeo/joeypcodes
+### 🟣 Orchestra (C#)  
+CLI based agentic harness that intalls skills in your favored AI Agent  
+🔗 https://github.com/jmpompeo/Orchestra
 
-### 👶 Pregnancy Tracker (TypeScript)
-A simple SPA that runs locally that can track pregnancy related things such as: mood, supplements taken, upcoming doctors appointments, and more coming soon.
-🔗 https://github.com/jmpompeo/pregnancy-tracker
+### 🟣 Poke-Price-Checker (C#)  
+Searchable website that utilizes API's to get pricing data on Pokemon cards 
+🔗 https://github.com/jmpompeo/Poke-price-checker)
+
 
 ---
 
