@@ -30,7 +30,7 @@ CLI based agentic harness that intalls skills in your favored AI Agent
 🔗 https://github.com/jmpompeo/Orchestra
 
 ### 🟣 Orchestra (C#)  
-CLI based agentic harness that intalls skills in your favored AI Agent  
+Pokemon card tracking site
 🔗 https://github.com/jmpompeo/Poke-price-checker
 
 
