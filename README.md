@@ -30,8 +30,8 @@ CLI based agentic harness that intalls skills in your favored AI Agent
 🔗 https://github.com/jmpompeo/Orchestra
 
 ### 🟣 Poke-Price-Checker (C#)  
-Searchable website that utilizes API's to get pricing data on Pokemon cards 
-🔗 https://github.com/jmpompeo/Poke-price-checker)
+Searchable website that utilizes API's to get pricing data on Pokemon cards
+🔗 https://github.com/jmpompeo/Poke-price-checker
 
 
 ---
