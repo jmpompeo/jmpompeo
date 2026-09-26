@@ -29,7 +29,7 @@ Simple but expandable calculator demonstrating clean architecture patterns.
 CLI based agentic harness that intalls skills in your favored AI Agent  
 🔗 https://github.com/jmpompeo/Orchestra
 
-### 🟣 Orchestra (C#)  
+### 🟣 Poke-price-checker (C#)  
 Pokemon card tracking site  
 🔗 https://github.com/jmpompeo/Poke-price-checker
 
